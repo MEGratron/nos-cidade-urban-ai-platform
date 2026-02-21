@@ -15,4 +15,4 @@ MVP development (Phase 1)
 
 ## Founder
 Arnaldina Lima Justo dos Santos Dias
-Architect | AI Researcher | Urban Systems Innovator
+AI Researcher
